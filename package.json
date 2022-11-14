@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://jpscottranken.github.io/MyPortfolio"
+  "homepage": "https://jpscottranken.github.io/MyPortfolio",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
